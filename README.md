@@ -14,10 +14,7 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 
-![Testomg](https://github.com/EurikaProg201/flutter_audiomack_ui_clone/blob/main/audiomack_ui_clone_look.webm)
+![A video of it being tested](https://github.com/EurikaProg201/flutter_audiomack_ui_clone/blob/main/audiomack_ui_clone_look.webm)
 samples, guidance on mobile development, and a full API reference.
-# audiomack_ui_clone_flutter
+# audiomack-ui-clone-_flutter
 
-
-<div> <iframe id="video" width="560" height="315" src="https://github.com/EurikaProg201/flutter_audiomack_ui_clone/blob/main/audiomack_ui_clone_look.webm" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen=""></iframe>
-</div>
